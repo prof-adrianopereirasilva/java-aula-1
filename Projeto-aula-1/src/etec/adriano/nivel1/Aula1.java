@@ -1,7 +1,7 @@
 package etec.adriano.nivel1;
 
         /*Conteúdo disponível nessa aula: Classe, Tipo de dados, Variaveis, package, métodos, concatenação
-         * conversão de tipo de dados, saida de dados, 
+         * conversão de tipo de dados, saida de dados
          */
 public class Aula1 {
  
